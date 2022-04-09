@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @morid-92
-- 👀 I’m interested in Robotics Engeener
+- 👀 I’m interested in Robotics Engineer
 - 🌱 I’m currently learning Programming
 - 💞️ I’m looking to ...
 - 📫 Morid.Aghili.92@gmail.com  
